@@ -13,7 +13,7 @@ Check the logs to see if your bot is ready!
 
 ## Environment Variables
 
-Mandatory Vars
+### Mandatory Vars
 
 API_ID - Get this from my.telegram.org
 API_HASH - Get this from my.telegram.org

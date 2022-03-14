@@ -1,8 +1,8 @@
-## QuoteBot
+# QuoteBot
 
 Telegram bot to search quotes from brainyquote.com
 
-# Deploy to Heroku
+## Deploy to Heroku
 
 https://dashboard.heroku.com/new?template=https://github.com/minukakevin/QuoteBot
 
@@ -11,8 +11,10 @@ Then tap "Deploy App" below it. Wait till deploying is complete (will take atmos
 After deploying is complete, tap on "Manage App"
 Check the logs to see if your bot is ready!
 
-Environment Variables
+## Environment Variables
+
 Mandatory Vars
+
 API_ID - Get this from my.telegram.org
 API_HASH - Get this from my.telegram.org
 BOT_TOKEN - Get this from @BotFather
@@ -31,9 +33,12 @@ That's on you mainly...
 
 PRs Welcome
 
-Credits
-Dan Tès for his Pyrogram Library
-Support
-Channel :- @StarkBots
+## Credits
+Coded By - https://t.me/minukakevin
+Edit By - https://t.me/SAVINDU_DESHAN
 
-Group Chat :- @StarkBotsChat
+## Support
+
+Channel :- https://t.me/Rawana_Developers
+
+Group Chat :- https://t.me/Rawana_Developers_Chat

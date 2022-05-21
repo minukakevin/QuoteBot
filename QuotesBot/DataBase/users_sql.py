@@ -11,7 +11,7 @@ class Users(BASE):
         self.user_id = user_id
 
     def __repr__(self):
-        return "<User ({})>".format(self.user_id)
+        return f"<User ({self.user_id})>"
 
 
 Users.__table__.create(checkfirst=True)

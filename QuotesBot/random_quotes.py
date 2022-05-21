@@ -40,5 +40,4 @@ async def random_quote():
             ),
         )
         articles.append(result)
-    article = random.choice(articles)
-    return article
+    return random.choice(articles)

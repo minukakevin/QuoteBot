@@ -43,7 +43,7 @@ async def brainy_quotes(query):
         )
         articles.append(result)
     random.shuffle(articles)
-    if len(articles) == 0:
+    if not articles:
         articles.append(main)
     return articles
 
